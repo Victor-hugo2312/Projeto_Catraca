@@ -49,3 +49,10 @@ Para configurar o projeto:
 3.  **Upload do Código:** Abra o arquivo `.ino` em `src/` na IDE do Arduino, selecione a placa e a porta correta e faça o upload do código para o Arduino.
 
 O sistema iniciará automaticamente após o upload.
+
+## Contato
+
+Para dúvidas ou mais informações, entre em contato:
+
+-   **Victor Hugo Barbosa** - [LinkedIn](https://www.linkedin.com/in/victor-hugoa-barbosa/)
+-   **E-mail:** [victorb.hugoa@gmail.com]
